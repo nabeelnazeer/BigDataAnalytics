@@ -1,0 +1,1 @@
+This is a simple text file for Hadoop MapReduce example. This is a test.
